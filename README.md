@@ -1,3 +1,3 @@
 # CrashMePlease
 
-It just crash your computer instantly
+It just crashes your computer instantly
